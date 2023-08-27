@@ -12,4 +12,4 @@ const Users: CollectionConfig = {
   ],
 };
 
-export default Users;
+export default Users; 7
